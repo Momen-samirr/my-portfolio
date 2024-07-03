@@ -1,0 +1,11 @@
+Model Information:
+* title:	La Jarre à Son - Home Studio Desk 2023
+* source:	https://sketchfab.com/3d-models/la-jarre-a-son-home-studio-desk-2023-538fdc1dc1c1478da6a2761ec3c6dcab
+* author:	La Jarre à Son (https://sketchfab.com/la_jarre_a_son)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "La Jarre à Son - Home Studio Desk 2023" (https://sketchfab.com/3d-models/la-jarre-a-son-home-studio-desk-2023-538fdc1dc1c1478da6a2761ec3c6dcab) by La Jarre à Son (https://sketchfab.com/la_jarre_a_son) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
